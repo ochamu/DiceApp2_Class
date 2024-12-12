@@ -22,7 +22,7 @@ public class Game {
       start();
     }else if (d1.me > d2.me) {
       System.out.println("Player1の勝ち");
-    } else {
+    }else {
       System.out.println("Player2の勝ち");
     }
   }
